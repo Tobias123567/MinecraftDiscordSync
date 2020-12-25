@@ -41,10 +41,7 @@
 	<modules>
 		<module>MinecraftDiscordSync-API</module>
 		<module>MinecraftDiscordSync-Nukkit</module>
-		<module>MinecraftDiscordSync-Bukkit</module>
 		<module>MinecraftDiscordSync-Bungee</module>
-		<module>MinecraftDiscordSync-Velocity</module>
-		<module>MinecraftDiscordSync-Sponge</module>
 	</modules>
 	
 </project>
